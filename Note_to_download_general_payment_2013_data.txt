@@ -1,0 +1,2 @@
+Download data from link, download tsv type
+https://openpaymentsdata.cms.gov/dataset/General-Payment-Data-Detailed-Dataset-2013-Reporti/gtwa-6ahd
